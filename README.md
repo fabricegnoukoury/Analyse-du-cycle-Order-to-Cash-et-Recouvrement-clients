@@ -31,7 +31,7 @@ Malgré une activité commerciale soutenue, la visibilité sur le recouvrement c
 
 ## Résultats clés
 
--  de recouvrement : 99.9%
+- Taux de recouvrement : 99.9%
 - DSO moyen : ~18 jours
 - Encours clients : 153K€
 - Cycle de paiement rapide et stable
