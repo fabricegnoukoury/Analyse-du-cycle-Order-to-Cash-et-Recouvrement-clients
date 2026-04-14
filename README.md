@@ -24,7 +24,7 @@ Malgré une activité commerciale soutenue, la visibilité sur le recouvrement c
 ## Approche
 
 
-- Structuration des flux (facturation vs encaissement)
+- Structuration des flux (facturation vs paiement)
 - Réconciliation des données financières
 - Reconstruction du lien factures ↔ paiements
 - Création d’une temporalité analytique
