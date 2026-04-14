@@ -1,3 +1,3 @@
 ## Contenu du rapport
-Ce dossier contient les analyses du cycle et les insights
+Ce dossier contient les résultats de l'analyse du cycle et les insights découverts
 
