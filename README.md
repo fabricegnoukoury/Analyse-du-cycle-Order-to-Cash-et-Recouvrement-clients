@@ -2,8 +2,7 @@
 
 ## Situation
 
-- L’entreprise étudiée est un acteur de la distribution B2B à fort volume, reposant sur un modèle d’achat en gros et de revente à faible marge avec une rotation rapide des stocks.
-- Le segment B2B constitue un levier clé de chiffre d’affaires, avec une forte dépendance à la logistique et à la gestion des encours clients.
+- L’entreprise étudiée est un acteur de la distribution B2B à fort volume, reposant sur un modèle d’achat en gros et de revente.
 - Dans ce contexte, la conversion du chiffre d’affaires en cash est critique pour maintenir la performance financière.
 
 ## Complication
@@ -23,18 +22,25 @@ Malgré une activité commerciale soutenue, la visibilité sur le recouvrement c
 
 ## Approche
 
-
 - Structuration des flux (facturation vs paiement)
 - Réconciliation des données financières
 - Reconstruction du lien factures ↔ paiements
 - Création d’une temporalité analytique
 - Définition d'indicateurs de recouvrement (DSO, taux de recouvrement, encours)
-- Analyse et priorisation des relances
+- Analyse des indicateurs et priorisation des actions (relances, mise en demeure, suivi des litiges)
+
+## Résultats clés
+
+-  de recouvrement : 99.9%
+- DSO moyen : ~18 jours
+- Encours clients : 153K€
+- Cycle de paiement rapide et stable
+- Conversion du chiffre d’affaires en cash élevée
 
 ## Stack technique
 
 - Power Query – collecte et fiabilisation des données
-- Modélisation analytique – structuration des flux financiers (facturation <-> paiement)
+- Modélisation analytique – structuration des flux financiers (facturation ↔ paiement)
 - DAX – conception des indicateurs de suivi (DSO, encours, taux de recouvrement)
 - Power BI – dashboard et visualisation
 
@@ -42,4 +48,3 @@ Malgré une activité commerciale soutenue, la visibilité sur le recouvrement c
 
 - Données brutes → factures et paiements issus de systèmes ERP
 - Modèle_O2C.pbix → dashboard de pilotage du recouvrement
-- Documentation_KPI.xlsx → définition des indicateurs (DSO, taux de recouvrement, encours)
