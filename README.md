@@ -3,9 +3,7 @@
 ## Situation
 
 - L’entreprise étudiée est un acteur de la distribution B2B à fort volume, reposant sur un modèle d’achat en gros et de revente à faible marge avec une rotation rapide des stocks.
-
 - Le segment B2B constitue un levier clé de chiffre d’affaires, avec une forte dépendance à la logistique et à la gestion des encours clients.
-
 - Dans ce contexte, la conversion du chiffre d’affaires en cash est critique pour maintenir la performance financière.
 
 ## Complication
