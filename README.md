@@ -28,8 +28,8 @@ Malgré une activité commerciale soutenue, la visibilité sur le recouvrement c
 - Réconciliation des données financières
 - Reconstruction du lien factures ↔ paiements
 - Création d’une temporalité analytique
-- Définition de KPI de recouvrement (DSO, taux de recouvrement, encours)
-- Construction de dashboards de pilotage et priorisation des relances
+- Définition d'indicateurs de recouvrement (DSO, taux de recouvrement, encours)
+- Analyse et priorisation des relances
 
 ## Stack technique
 
