@@ -29,13 +29,13 @@ Malgré une activité commerciale soutenue, la visibilité sur le recouvrement c
 - Reconstruction du lien factures ↔ paiements
 - Création d’une temporalité analytique
 - Définition de KPI de recouvrement (DSO, taux de recouvrement, encours)
-- Construction de dashboards de pilotage
+- Construction de dashboards de pilotage et priorisation des relances
 
 ## Stack technique
 
-- Power Query – ETL, nettoyage et transformation des données
-- Modélisation analytique – structuration des flux financiers
-- DAX – mesures analytiques et KPI
+- Power Query – collecte et fiabilisation des données
+- Modélisation analytique – structuration des flux financiers (facturation <-> paiement)
+- DAX – conception des indicateurs de suivi (DSO, encours, taux de recouvrement)
 - Power BI – dashboard et visualisation
 
 ## Contenu
